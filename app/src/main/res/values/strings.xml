@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Samsung Pay</string>
+    <string name="confirmPay">确认支付</string>
+    <string name="preferential">获取优惠</string>
+    
+    <string name="businessType">业务类型:</string>
+    <string name="merchantNum">商户编号:</string>
+    <string name="orderId">订单号:</string>
+    <string name="amount">消费金额:</string>
+    <string name="currency">交易币种:</string>
+    <string name="phoneNum">手机号:</string>
+    <string name="memberId">商户会员ID:</string>
+    <string name="sign">签名:</string>
+    <string name="signParams">签名参数</string>
+    <string name="environmentParam">环境参数</string>
+    
+    <string name="promotionAmt">优惠金额:</string>
+    <string name="promotionId">优惠ID:</string>
+    <string name="pid">商品名称:</string>
+    <string name="url">回调地址:</string>
+    <string name="desc">场景扩展参数:</string>
+    <string name="termimalCode">终端号:</string>
+    <string name="priskParam">风控扩展参数:</string>
+    <string name="bussinessOrderId">商户业务编号:</string>
+    <string name="needResponse">需要应答</string>
+    <string name="payEnvironment">支付环境</string>
+
+    <string name="yes">必填项:</string>
+    <string name="back">返回</string>
+</resources>
